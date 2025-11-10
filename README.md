@@ -1,4 +1,10 @@
 
+🛕 AI: AI chatbot, AI agent, Fine-tuning, Bittensor Miner & Validator, Subnet
+
+★ Blockchain: Solidity (ERC20, 721, 721A, 1155, and Other Smart Contracts), Rust(Solana), X402, Web3.js, ethers.js, web3-react, wagmi, viem, rainbowkit
+
+✈ Bundle Service: Flashbot, Jito, BloxRoute, Nextblock, Astralane, 0slot
+
 💧 FrontEnd: React, Next.js, Remix, Vue, Redux, TailwindCSS, SCSS, MUI, Styled-component, Bootstrap, Javascript, ES6+, Typescript
 
 🔸 BackEnd: Node.js, ExpressJS, Nest.js, Python, Django, Flask, AWS, Digital Ocen, Serverless, RESTFul API, PostgreSQL, Artificail Intelligence
@@ -12,8 +18,6 @@
 🚀 Software: CAD, Unity, C++, Electronic Engineering, Mechanical Engineering
 
 💧 Web Development/Design: WordPress, Shopify, Magento, Wix, Webflow, Graphic Design, Logo Design, Web Design, Mobile App Design, E-commerce, WooCommerce
-
-★ Blockchain: Solidity (ERC20, 721, 721A, 1155, and Other Smart Contracts), Web3.js, ethers.js, web3-react, wagmi, viem, rainbowkit
 
 Thanks a lot in advance! 
 
